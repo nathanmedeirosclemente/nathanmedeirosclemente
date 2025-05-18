@@ -12,6 +12,7 @@
 - 📊 Habilidade em implementar soluções de Business Intelligence
 - 🌱 Atualmente focado em Desenvolvimento Web e Ciência de Dados
 - 🔍 Interessado em resolver problemas complexos com soluções eficientes
+- 🧑‍💻 Sempre me atualizando em busca de mais conhecimento
 
 ## 🚀 Habilidades
 <div align="center">
