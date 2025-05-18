@@ -9,7 +9,7 @@
 - 🎓 Formado em Bacharelado de Tecnologia da Informação
 - 💼 Experiência com desenvolvimento de dashboards e análise de dados
 - 🔧 Desenvolvedor backend com foco em APIs RESTful e Node.js
-- 📊 Habilidade em implementar soluções de Business Intelligence
+- 📊 Habilidade em implementar soluções de Business Intelligence utilizando dados
 - 🌱 Atualmente focado em Desenvolvimento Web e Ciência de Dados
 - 🔍 Interessado em resolver problemas complexos com soluções eficientes
 - 🧑‍💻 Sempre me atualizando em busca de mais conhecimento
