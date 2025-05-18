@@ -39,6 +39,9 @@
   <a href="https://github.com/nathanmedeirosclemente/EDB2">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nathanmedeirosclemente&repo=EDB2&theme=github_dark" />
   </a>
+  <a href="https://github.com/nathanmedeirosclemente/Gacha-System-Test">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nathanmedeirosclemente&repo=Gacha-System-Test&theme=github_dark" />
+  </a>
 </div>
 
 ## 📫 Como me encontrar
